@@ -1,23 +1,21 @@
 # ungatedbluemarble
 
-I have spent my career solving problems that other people said required a consultant, a big budget, or the right network. Turns out most of them just required someone willing to dig in and build.
+I work through hard business problems to a solution, the kind people are told need a consultant, a big budget, or the right network. Usually that barrier was never real.
 
-I am not a developer. No CS degree, no bootcamp, no production codebases. I have opened a pull request or two but nothing that would impress anyone at a standup. Just a US veteran who came up through help desk, systems analysis, engineering, and operations before landing in AI enablement. I learned that the gap between "I do not know how to do this" and "I built it" is mostly just stubbornness and a willingness to be wrong a lot along the way.
+I'm a thought leader and senior operator in enterprise AI enablement, and a US veteran. I came up through help desk, systems analysis, engineering, and operations. What I do now is think: I take a business problem, reason through the process end to end, and work with the business to make it more efficient. I don't accept "this is too hard" as an answer, because most of the time it just means no one has thought it through yet.
 
-I did not take a straight path and I did not come from a prestigious background. I learned by doing, by failing, and by being stubborn enough to keep going. AI changed what was possible for people like me, and I think that matters.
+Everything here started as something I needed and couldn't find or couldn't justify paying for. Tools, workflows, governance frameworks. The work I can open up, I do: free and usable by anyone willing to try.
 
-Everything I publish here started as something I needed. A tool, a workflow, a framework that did not exist or cost too much to access. If it worked for me, it belongs here: free, open, and usable by anyone with the willingness to try.
-
-That is the point of ungatedbluemarble. Not a product. Not a brand. Just a builder sharing what works.
+That's ungatedbluemarble. Not a product, not a brand. Someone sharing what works.
 
 ---
 
 ## What I build
 
-Open source skills, tools, and frameworks built for Claude and Gemini. Career preparation, workflow automation, governance frameworks, and whatever else comes next. Everything free. Everything usable by anyone.
+Open-source skills, tools, and frameworks for Claude and Gemini, alongside private work for businesses. Career preparation, workflow automation, governance and compliance frameworks, and whatever's next. What's public here is free and open to anyone.
 
 ---
 
 ## Get involved
 
-If something here helped you, tell someone else about it. If you want to contribute, open a pull request. If you find a bug or a gap, open an issue. That is how this grows.
+If something here helped, pass it on. Want to contribute, open a pull request. Found a bug or a gap, open an issue. That's how this grows.
